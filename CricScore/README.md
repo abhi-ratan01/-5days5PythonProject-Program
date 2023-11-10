@@ -20,7 +20,7 @@ This Python-based app allows you to score cricket matches effortlessly. Whether 
 - Python 3.x
 
 #### Getting Started:
-Check out our [Wiki](wiki) for detailed instructions, FAQs, and troubleshooting tips.
+Check out our [Wiki](https://en.wikipedia.org/wiki/Scorer_(cricket)) for detailed instructions, FAQs, and troubleshooting tips.
 
 #### Contributions:
 We welcome contributions! If you have ideas for improvement or bug fixes, feel free to submit a pull request.
