@@ -13,7 +13,7 @@ This Python-based app allows you to score cricket matches effortlessly. Whether 
 
 #### How to Use:
 1. Clone the repository.
-2. Run the app using Python: `scrapper.ipynb`
+2. Run the app using Python: `cricscore.ipynb`
 3. Follow on-screen instructions to start scoring your cricket match.
 
 #### Dependencies:
