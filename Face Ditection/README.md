@@ -23,12 +23,12 @@ This project is part of a challenge curated by Vishwa Mohan Sir, aimed at enhanc
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/abhi-ratan01/5days5PythonProjects/Face Ditection.git
+   git clone https://github.com/abhi-ratan01/5days5PythonProjects/Face%20Ditection.git
    ```
 
 2. **Navigate to Day 2: Face Detection Project:**
    ```bash
-   cd 5days5PythonProjects/Day2_FaceDetection
+   cd 5days5PythonProjects/Face%20Detection
    ```
 
 3. **Install Dependencies:**
