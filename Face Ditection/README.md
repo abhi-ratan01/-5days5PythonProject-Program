@@ -1,6 +1,3 @@
-
-Certainly! Here's a sample README note for your Face Detection project as part of the #5days5PythonProjects:
-
 ---
 
 # 5 Days, 5 Python Projects Challenge
