@@ -23,7 +23,7 @@ This project is part of a challenge curated by Vishwa Mohan Sir, aimed at enhanc
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/5days5PythonProjects.git
+   git clone https://github.com/abhi-ratan01/5days5PythonProjects/Face Ditection.git
    ```
 
 2. **Navigate to Day 2: Face Detection Project:**
@@ -38,7 +38,7 @@ This project is part of a challenge curated by Vishwa Mohan Sir, aimed at enhanc
 
 4. **Run the Project:**
    ```bash
-   python face_detection.py
+   python FaceDetection.ipynb
    ```
 
 ### Project Structure:
